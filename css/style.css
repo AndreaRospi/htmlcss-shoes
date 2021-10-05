@@ -11,15 +11,16 @@
 
 .container nav ul li{
     display: inline-block;
+    position: fixed;
 }
 
 .container nav ul li a{
+    display: block;
     margin-right: 25px;
     text-decoration: none;
     color: black;
     background-color: blue;
     padding: 20px;
-    
 }
 
 .box{
