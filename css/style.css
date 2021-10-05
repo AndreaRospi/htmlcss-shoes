@@ -3,3 +3,35 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container nav ul li{
+    display: inline-block;
+}
+
+.container nav ul li a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: blue;
+    padding: 20px;
+}
+
+.box{
+    width: 100%;
+    height: 100vh;
+    background-color: red
+
+}
+
+.verde{
+    background-color: green;
+}
+
+.giallo{
+    background-color: yellow;
+}
